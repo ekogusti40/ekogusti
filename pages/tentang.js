@@ -10,13 +10,13 @@ return (
 <div>
 <h1>Tentang Kami</h1>
 <h5>Mahasiswa Stikom Banyuwangi</h5>
-<p>Nama  : Dikta fajar yudhayana</p>
-<P>Tempat, Tgl Lahir : Banyuwangi, 02 juni 1999</P>
+<p>Nama  : Eko Gusti Putro</p>
+<p>Tempat, Tgl Lahir : Banyuwangi, 28 Agustus 1999</p>
 <p>Jenis Kelamin : Laki-Laki</p>
 <p>Agama : Islam</p>
-<p>Alamat : Jl. Patimura , Sukonatar ,Srono Banyuwangi</p>
+<p>Alamat : Banyuwangi</p>
 <p>Kelas : SM4.1 (S1 Reguler Sore)</p>
-<p>Email : fajardikta7@gmail.com.com</p>
+<p>Email : ekogusti40@gmail.com</p>
 </div>
 </div>
 );
